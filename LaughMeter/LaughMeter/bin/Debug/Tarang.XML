@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Tarang</name>
+    </assembly>
+    <members>
+        <member name="F:LaughMeter.Form1.components">
+            Required designer variable.
+        </member>
+        <member name="M:LaughMeter.Form1.Dispose(System.Boolean)">
+            Clean up any resources being used.
+        </member>
+        <member name="M:LaughMeter.Form1.InitializeComponent">
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+        </member>
+        <member name="T:LaughMeter.Properties.Resources">
+            <summary>
+              A strongly-typed resource class, for looking up localized strings, etc.
+            </summary>
+        </member>
+        <member name="P:LaughMeter.Properties.Resources.ResourceManager">
+            <summary>
+              Returns the cached ResourceManager instance used by this class.
+            </summary>
+        </member>
+        <member name="P:LaughMeter.Properties.Resources.Culture">
+            <summary>
+              Overrides the current thread's CurrentUICulture property for all
+              resource lookups using this strongly typed resource class.
+            </summary>
+        </member>
+        <member name="F:LaughMeter.Form2.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:LaughMeter.Form2.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:LaughMeter.Form2.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="M:LaughMeter.Program.Main">
+            The main entry point for the application.
+        </member>
+    </members>
+</doc>
